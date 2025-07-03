@@ -1,4 +1,5 @@
-# Exported from Render on 2025-07-03T23:09:50Z
+git add render.yaml
+git commit -"# Exported from Render on 2025-07-03T23:09:50Z
 services:
 - type: web
   name: ELITE-PRO-V2
@@ -10,3 +11,4 @@ services:
   dockerfilePath: ./Dockerfile
   autoDeployTrigger: commit
 version: "1"
+git push
